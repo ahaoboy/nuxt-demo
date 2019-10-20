@@ -1,5 +1,7 @@
 # nuxt-demo
 
+test
+
 > My fine Nuxt.js project
 
 ## Build Setup
