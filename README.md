@@ -1,6 +1,6 @@
 # nuxt-demo
 
-test
+test nuxt
 
 > My fine Nuxt.js project
 
